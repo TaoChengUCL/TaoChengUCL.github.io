@@ -10,8 +10,7 @@ Tao Cheng is a Professor in GeoInformatics at UCL whose research interests span 
 
 Tao Cheng is the founder and Director of SpaceTimeLab for Big Data Analytics (http://www.ucl.ac.uk/spacetimelab), a multi-disciplinary research centre at UCL that aims to gain insight from Big geo-data to understand spatio-temporal complexity. SpaceTimeLab focusses on developing theories, methods and tools for use in the real world, with applications so far in transport, crime and security, economics, health, energy and social media.
 
-Contact
-------
-Email: tao.cheng@ucl.ac.uk
-
-Address: Chadwick Building, 111 University College London, Gower Street, WC1E 6BT
+Contact  
+------  
+Email: tao.cheng@ucl.ac.uk  
+Address: Chadwick Building, 111 University College London, Gower Street, WC1E 6BT  
