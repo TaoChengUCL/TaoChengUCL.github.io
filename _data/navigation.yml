@@ -1,22 +1,13 @@
 # main links links
 main:
+  - title: "Group"
+    url: https://www.ucl.ac.uk/spacetimelab
+
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=OA2E5JsAAAAJ
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
